@@ -15,7 +15,7 @@ function reset(){
 function catgen(){
     let image=document.createElement('img');
     let div=document.getElementById("flex_cat_gen");
-    image.src="rpsimages/my image.jpg";
+    image.src="./rpsimages/my cat.jpeg";
     div.appendChild(image);
 }
 //challenge 3
